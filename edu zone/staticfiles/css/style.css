@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#sidebar-wrapper {
+    width: 250px;
+    top: 0;
+    left: 0;
+    position: fixed;
+}
+
+.main-content {
+    margin-left: 250px;
+    padding: 20px;
+}
